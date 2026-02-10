@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/uzCM_WDO)
 
-Портфолио с проектами по аналитике данных Лукиновой Дианы (поток яндекс.практикума июль 2025 - февраль 2026)
+Портфолио с проектами по аналитике данных Лукиновой Дианы
 
 1. гугл-таблицы/excel (в том числе функции, сводные таблицы, визуализации
 
@@ -8,7 +8,7 @@
 
    1.2 - [Аналитический отчёт для поддержки английского от Яндекс](https://docs.google.com/spreadsheets/d/1MOHki2qm86UT0RcKp5NysWem8SKrUHrohu7ndjtBgv0/edit?usp=sharing)
 
-3. SQL (в том числе ad hoc задачи, оконные функции, подзапросы, CTE)
+2. SQL (в том числе ad hoc задачи, оконные функции, подзапросы, CTE)
 
    2.1 - [Анализ базы данных вакансий hh.ru](https://github.com/Diana434/portfolio/blob/main/SQL/hh_ru.sql)
 
@@ -16,9 +16,14 @@
 
    2.3 - [Анализ данных для агенства недвижимости](https://github.com/Diana434/portfolio/blob/main/SQL/estate_practicum_SQL_window_func.sql)
 
-6. Python (в том числе pandas, numpy, matplotlib, seaborn)
+3. Python (в том числе pandas, numpy, matplotlib, seaborn)
 
-7. BI (яндекс.Даталенс)
+   3.1 - [Предобработка данных](https://github.com/Diana434/portfolio/blob/main/python/data_preprocessing.ipynb)
+   3.2 - [Исследовательский анализ данных](https://github.com/Diana434/portfolio/blob/main/python/exploratory_data_analysis.ipynb)
+   3.3 - [Рынок стартапов](https://github.com/Diana434/portfolio/blob/main/python/startup_market.ipynb)
+   3.4 - []()
+
+4. BI (яндекс.Даталенс)
    
    4.1 - [Дашборд по продажам интернет-магазина](https://datalens.yandex/lq4dvzse7chg6)
 
