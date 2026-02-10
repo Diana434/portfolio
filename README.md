@@ -8,11 +8,13 @@
 
   1.2 - [Аналитический отчёт для поддержки английского от Яндекс](https://docs.google.com/spreadsheets/d/1MOHki2qm86UT0RcKp5NysWem8SKrUHrohu7ndjtBgv0/edit?usp=sharing)
 
-2. SQL (в том числе оконные функции, подзапросы, ad hoc задачи)
+2. SQL (в том числе ad hoc задачи, оконные функции, подзапросы, CTE)
    
-  2.1 - [Анализ базы данных вакансий hh.ru]()
+  2.1 - [Анализ базы данных вакансий hh.ru](https://github.com/Diana434/portfolio/blob/main/SQL/hh_ru.sql)
    
-  2.2 - [Разведочный анализ данных онлайн-игры и решение ad hoc задач]()
+  2.2 - [Разведочный анализ данных онлайн-игры и решение ad hoc задач](https://github.com/Diana434/portfolio/blob/main/SQL/game_practicum_SQL_subquery_CTE.sql)
+
+  2.3 - [Анализ данных для агенства недвижимости](https://github.com/Diana434/portfolio/blob/main/SQL/estate_practicum_SQL_window_func.sql)
 
 3. Python (в том числе pandas, numpy, matplotlib, seaborn)
 
