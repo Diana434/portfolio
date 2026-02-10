@@ -16,7 +16,7 @@
 
    2.3 - [Анализ данных для агенства недвижимости](https://github.com/Diana434/portfolio/blob/main/SQL/estate_practicum_SQL_window_func.sql)
 
-3. Python (в том числе pandas, numpy, matplotlib, seaborn)
+3. Python (в том числе pandas, numpy, matplotlib, seaborn, sklearn, telebot)
 
    3.1 - [Предобработка данных](https://github.com/Diana434/portfolio/blob/main/python/data_preprocessing.ipynb)
    
@@ -26,7 +26,7 @@
    
    3.4 - [Анализ данных с использованием ML](https://github.com/Diana434/portfolio/blob/main/python/ML.ipynb)
 
-   3.5 - [Создание телеграм-бота (инструменты: SQL, pandas, telebot, морфологический парсинг)]()
+   3.5 - [Создание телеграм-бота (инструменты: SQL, pandas, telebot, морфологический парсинг)](https://github.com/Diana434/portfolio/tree/main/python/TelegramBot)
 
 5. BI (яндекс.Даталенс)
    
@@ -37,9 +37,3 @@
    4.3 - [Дашборд с анализом данных для агенства недвижимости](https://datalens.yandex/3a8hniajymk8o)
 
    4.4 - [Дашборд с анализом метрик рынка ресторанов в Саранске](https://datalens.yandex/re9ocitnx6rqb)
-
-
-project playlists -- файлы, относящиеся к проекту телеграм-бота
-1) файл main.py – создание базы данных с помощью парсинга сайта с текстами песен
-2) файл bot.py – запуск бота
-3) файл songbase.py - sql запросы в базу
