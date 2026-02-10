@@ -39,4 +39,5 @@
    4.4 - [Дашборд с анализом метрик рынка ресторанов в Саранске](https://datalens.yandex/re9ocitnx6rqb)
 
 5. Статистика (проверка гипотез)
+   
    5.1 - [Проверка гипотез бизнеса по аренде самокатов](https://github.com/Diana434/portfolio/blob/main/python_statistics/statistics.ipynb)
