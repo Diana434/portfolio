@@ -3,18 +3,22 @@
 Портфолио с проектами по аналитике данных Лукиновой Дианы (поток яндекс.практикума июль 2025 - февраль 2026)
 
 1. гугл-таблицы/excel (в том числе функции, сводные таблицы, визуализации
+
    1.1 - [Анализ точек роста прибыли салона красоты](https://docs.google.com/spreadsheets/d/1iUeiN4EIVTEozS76IdNbRrDRSzdhHM0eMOIE-i0Wh3A/edit?usp=sharing)
 
-  1.2 - [Аналитический отчёт для поддержки английского от Яндекс](https://docs.google.com/spreadsheets/d/1MOHki2qm86UT0RcKp5NysWem8SKrUHrohu7ndjtBgv0/edit?usp=sharing)
+   1.2 - [Аналитический отчёт для поддержки английского от Яндекс](https://docs.google.com/spreadsheets/d/1MOHki2qm86UT0RcKp5NysWem8SKrUHrohu7ndjtBgv0/edit?usp=sharing)
 
-2. SQL (в том числе ad hoc задачи, оконные функции, подзапросы, CTE)
+3. SQL (в том числе ad hoc задачи, оконные функции, подзапросы, CTE)
+
    2.1 - [Анализ базы данных вакансий hh.ru](https://github.com/Diana434/portfolio/blob/main/SQL/hh_ru.sql)
+
    2.2 - [Разведочный анализ данных онлайн-игры и решение ad hoc задач](https://github.com/Diana434/portfolio/blob/main/SQL/game_practicum_SQL_subquery_CTE.sql)
+
    2.3 - [Анализ данных для агенства недвижимости](https://github.com/Diana434/portfolio/blob/main/SQL/estate_practicum_SQL_window_func.sql)
 
-4. Python (в том числе pandas, numpy, matplotlib, seaborn)
+6. Python (в том числе pandas, numpy, matplotlib, seaborn)
 
-5. BI (яндекс.Даталенс)
+7. BI (яндекс.Даталенс)
    
    4.1 - [Дашборд по продажам интернет-магазина](https://datalens.yandex/lq4dvzse7chg6)
 
