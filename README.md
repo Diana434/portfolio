@@ -28,7 +28,7 @@
 
    3.5 - [Создание телеграм-бота (инструменты: SQL, pandas, telebot, морфологический парсинг)](https://github.com/Diana434/portfolio/tree/main/python/TelegramBot)
 
-5. BI (яндекс.Даталенс)
+4. BI (яндекс.Даталенс)
    
    4.1 - [Дашборд по продажам интернет-магазина](https://datalens.yandex/lq4dvzse7chg6)
 
@@ -37,3 +37,6 @@
    4.3 - [Дашборд с анализом данных для агенства недвижимости](https://datalens.yandex/3a8hniajymk8o)
 
    4.4 - [Дашборд с анализом метрик рынка ресторанов в Саранске](https://datalens.yandex/re9ocitnx6rqb)
+
+5. Статистика (проверка гипотез)
+   5.1 - [Проверка гипотез бизнеса по аренде самокатов](https://github.com/Diana434/portfolio/blob/main/python_statistics/statistics.ipynb)
