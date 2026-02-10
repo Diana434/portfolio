@@ -19,11 +19,14 @@
 3. Python (в том числе pandas, numpy, matplotlib, seaborn)
 
    3.1 - [Предобработка данных](https://github.com/Diana434/portfolio/blob/main/python/data_preprocessing.ipynb)
+   
    3.2 - [Исследовательский анализ данных](https://github.com/Diana434/portfolio/blob/main/python/exploratory_data_analysis.ipynb)
+   
    3.3 - [Рынок стартапов](https://github.com/Diana434/portfolio/blob/main/python/startup_market.ipynb)
+   
    3.4 - []()
 
-4. BI (яндекс.Даталенс)
+5. BI (яндекс.Даталенс)
    
    4.1 - [Дашборд по продажам интернет-магазина](https://datalens.yandex/lq4dvzse7chg6)
 
